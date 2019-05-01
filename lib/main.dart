@@ -3,7 +3,7 @@ import './halamankedua.dart';
 
 void main() {
   runApp(new MaterialApp(
-    title: "Trafakelokeeeesssssss",
+    title: "Trafakeloka",
     home: new Myapp(),
   ));
 }
